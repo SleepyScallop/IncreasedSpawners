@@ -1,0 +1,13 @@
+# Ranges are in blocks # You can change them to whatever you like #
+# DO NOT Give a player more than 1 Permission or bugs will occur with placed spawners #
+# Placed Spawners will keep these settings until they are manually removed #
+default-range-requires-permission: true
+# If set to false, anyone on your server can place a mob spawner and have the default-range #
+# This CANNOT be set to false if you have ranks with extra-range and extreme-range permissions #
+default-range: 32
+# PERMISSION: increasedspawners.default #
+extra-range: 48
+# PERMISSION: increasedspawners.extra #
+extreme-range: 64
+# PERMISSION: increasedspawners.extreme #
+

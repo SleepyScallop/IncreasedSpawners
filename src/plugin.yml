@@ -1,0 +1,15 @@
+name: IncreasedSpawners
+author: Guppytacos
+version: 1.3
+api-version: 1.16
+ 
+main: com.guppy.IncreasedSpawners.IncreasedSpawners
+
+permissions:
+    increasedspawners.default:
+        description: Permission to use default range
+        default: op
+    increasedspawners.extra:
+        description: Permission to use extra range
+    increasedspawners.extreme:
+        description: Permission to use extreme range
